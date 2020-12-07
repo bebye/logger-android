@@ -16,7 +16,7 @@ object Versions {
     const val buildTools = "30.0.2"                 // https://developer.android.com/studio/releases/build-tools
 
     // kotlin
-    const val kotlin = "1.4.0"                      // https://blog.jetbrains.com/kotlin/category/releases/
+    const val kotlin = "1.4.20"                      // https://blog.jetbrains.com/kotlin/category/releases/
 
     // androidX
     const val core = "1.3.2"                        // https://developer.android.com/jetpack/androidx/releases/core?hl=ko
