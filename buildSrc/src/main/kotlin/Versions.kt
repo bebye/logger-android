@@ -7,7 +7,7 @@ object Versions {
     const val versionCode = 100
 
     // gradle plugin
-    const val buildGradle = "4.1.0"                 // https://developer.android.com/studio/releases/gradle-plugin
+    const val buildGradle = "4.1.1"                 // https://developer.android.com/studio/releases/gradle-plugin
 
     // sdk
     const val compileSdk = 30
