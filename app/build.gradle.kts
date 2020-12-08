@@ -43,6 +43,8 @@ android {
 dependencies {
     implementation(fileTree(mapOf("include" to listOf("*.jar"), "dir" to "libs")))
 
+    implementation(project(":logger"))
+
     // kotlin
     implementation(Dependency.Kotlin.stdlib)
 
