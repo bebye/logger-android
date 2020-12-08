@@ -11,7 +11,7 @@ object Versions {
 
     // sdk
     const val compileSdk = 30
-    const val minSdk = 21
+    const val minSdk = 23
     const val targetSdk = 30
     const val buildTools = "30.0.2"                 // https://developer.android.com/studio/releases/build-tools
 
